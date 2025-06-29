@@ -150,13 +150,16 @@ curl http://localhost:4000/weather/London
 ```
 
 ## 🖼️ Screenshots
-
-> **Note**: Add a screenshot of your application interface here to showcase the UI.
-
-You can add screenshots by:
-1. Taking a screenshot of the running application
-2. Saving it in a `screenshots/` folder
-3. Adding it here with: `![Weather App Screenshot](screenshots/app-c:\Users\tenif\OneDrive\Documents\MyCloud\Weather_Applicayion\New folder\Screenshot (7).png c:\Users\tenif\OneDrive\Documents\MyCloud\Weather_Applicayion\New folder\Screenshot (1).png c:\Users\tenif\OneDrive\Documents\MyCloud\Weather_Applicayion\New folder\Screenshot (2).png c:\Users\tenif\OneDrive\Documents\MyCloud\Weather_Applicayion\New folder\Screenshot (3).png c:\Users\tenif\OneDrive\Documents\MyCloud\Weather_Applicayion\New folder\Screenshot (4).png c:\Users\tenif\OneDrive\Documents\MyCloud\Weather_Applicayion\New folder\Screenshot (5).png c:\Users\tenif\OneDrive\Documents\MyCloud\Weather_Applicayion\New folder\Screenshot (6).png c:\Users\tenif\OneDrive\Documents\MyCloud\Weather_Applicayion\New folder\Screenshot (8).png)`
+### Weaather result
+![Weaather result](<Screenshot (7)-1.png>)
+### Docker image
+![Docker image](<Screenshot (1).png>)
+### AWS CLI
+![AWS CLI](<Screenshot (3).png>)
+### Gitub Action Deployment
+![Gitub Action Deployment](<Screenshot (5).png>)
+### ECR Image Deplyment
+![ECR Image Deplyment](<Screenshot (8).png>)
 
 ## 🧪 Testing
 
