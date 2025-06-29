@@ -39,4 +39,8 @@ app.get('/weather/:city', async (req, res) => {
 
 app.listen(PORT, () => {
   console.log(`Weather app running on http://localhost:${PORT}`);
+<<<<<<< HEAD
 });
+=======
+});
+>>>>>>> 9a5463529df601afc40796e77629849d5e370eb9
